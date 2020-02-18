@@ -1,3 +1,5 @@
+Project has been made in Spring Boot.
+Make a jar file to execute the project.
 
 Methods used in the project:
 
